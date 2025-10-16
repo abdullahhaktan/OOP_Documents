@@ -127,8 +127,13 @@ This project demonstrates a **bank account simulation** using **C# Object-Orient
     * Set the main project as **`Startup Project`**  
     * Press **F5** to run the application  
 
+<img width="862" height="464" alt="Ekran görüntüsü 2025-10-16 184918" src="https://github.com/user-attachments/assets/48ef6b27-ba2e-4ad6-b58c-4c8c1b68b3d9" />
+
 ---
 <img width="863" height="460" alt="Ekran görüntüsü 2025-10-16 185000" src="https://github.com/user-attachments/assets/3dc605cf-8805-45c0-ba88-1bd00d7102a9" />
+
+<img width="858" height="458" alt="Ekran görüntüsü 2025-10-16 185023" src="https://github.com/user-attachments/assets/05f34d67-17ea-414e-9ca5-41f6dd0d01d9" />
+
 
 ---
 
@@ -140,8 +145,6 @@ This project demonstrates a **bank account simulation** using **C# Object-Orient
 
 ---
 
-<img width="862" height="464" alt="Ekran görüntüsü 2025-10-16 184918" src="https://github.com/user-attachments/assets/48ef6b27-ba2e-4ad6-b58c-4c8c1b68b3d9" />
 
 ---
 
-<img width="858" height="458" alt="Ekran görüntüsü 2025-10-16 185023" src="https://github.com/user-attachments/assets/05f34d67-17ea-414e-9ca5-41f6dd0d01d9" />
